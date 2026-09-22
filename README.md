@@ -40,6 +40,7 @@ My technical focus lies in building practical **Computer Vision** systems, **Dee
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### AI, Machine Learning & Computer Vision
@@ -76,20 +77,3 @@ My technical focus lies in building practical **Computer Vision** systems, **Dee
 - Developed a computer vision dashboard that tracks livestock species and keeps automated herd counts.
 - Implemented an algorithmic health assessment module classifying animals as **Healthy** or **At Risk**.
 - Designed real-time warning indicators on a **Streamlit** interface to alert farm administrators and veterinarians.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muffin-18&show_icons=true&theme=radial&count_private=true" alt="Asmit's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muffin-18&layout=compact&theme=radial" alt="Top Languages" width="48%" />
-</p>
-
----
-
-## 📫 Let's Connect!
-
-- **Email**: [ashmitjena@gmail.com](mailto:ashmitjena@gmail.com)
-- **LinkedIn**: [linkedin.com/in/asmit-kumar-jena-1b778831b](https://www.linkedin.com/in/asmit-kumar-jena-1b778831b)
-- **GitHub**: [github.com/Muffin-18](https://github.com/Muffin-18)
