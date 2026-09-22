@@ -14,4 +14,82 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-\# Hi there, I'm Asmit Kumar Jena 👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/asmit-kumar-jena-1b778831b) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Muffin-18) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:ashmitjena@gmail.com) --- ## 🚀 About Me I am a \*\*Computer Science &amp; Engineering undergraduate\*\* specializing in \*\*Artificial Intelligence &amp; Machine Learning\*\* at \*\*Kalinga Institute of Industrial Technology (KIIT)\*\*, Bhubaneswar (Graduating 2028). My technical focus lies in building practical \*\*Computer Vision\*\* systems, \*\*Deep Learning\*\* models, and \*\*Agentic AI\*\* solutions that solve real-world problems. - 🎓 \*\*Education\*\*: B.Tech in CSE (AIML Specialization) @ KIIT (2024 – 2028) - 🤖 \*\*Leadership\*\*: Point of Contact (POC) &amp; ML Team Member @ \*\*KIIT Robotics Society\*\* - 🎙️ \*\*Community Work\*\*: Organized and conducted \*\*"The Imitation Game"\*\*, a hands-on workshop on Agentic AI principles - 🛠️ \*\*Current Focus\*\*: Real-time Computer Vision pipelines, LLM-powered adaptive software, and Neural Network optimization --- ## 💻 Tech Stack ### Languages ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=java&amp;logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white) ### AI, Machine Learning &amp; Computer Vision ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&amp;logo=keras&amp;logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit\_learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white) ### Tools &amp; Deployment ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white) --- ## ⚡ Featured Projects ### 🧠 [FaceCode — Adaptive AI Coding Tutor](https://github.com/Muffin-18/Face-Code) &gt; \*Python, Streamlit, OpenCV, Groq LLM API, Emotion Analytics\* - Built an intelligent coding tutor that evaluates student code and adapts problem difficulty in real time. - Integrated \*\*OpenCV\*\* to track emotional indicators and typing pace during coding sessions. - Connected the \*\*Groq LLM API\*\* to deliver automated error explanations, context-aware hints, and personalized problem recommendations. ### 🍕 [Kalomee — Food Recognition &amp; Nutrition Analyzer](https://github.com/Muffin-18/Kalomee) &gt; \*Python, TensorFlow, Keras, ResNet50, Streamlit, Pandas\* - Engineered an automated food image classification system using a custom-trained \*\*ResNet50 CNN\*\* model. - Mapped classification outputs to a \*\*Pandas\*\* nutrition database to output caloric and macronutrient breakdowns per 100g. - Built an interactive \*\*Streamlit\*\* UI for quick image uploads and instant visualization of nutrition metrics. ### 🐾 [PashuCare AI (AniCare) — Livestock Health Monitor](https://github.com/Muffin-18/AniCare) &gt; \*Python, Streamlit, OpenCV, Pillow, NumPy\* - Developed a computer vision dashboard that tracks livestock species and keeps automated herd counts. - Implemented an algorithmic health assessment module classifying animals as \*\*Healthy\*\* or \*\*At Risk\*\*. - Designed real-time warning indicators on a \*\*Streamlit\*\* interface to alert farm administrators and veterinarians. --- ## 📊 GitHub Stats <p align="center">   </p> --- ## 📫 Let's Connect! - \*\*Email\*\*: [ashmitjena@gmail.com](mailto:ashmitjena@gmail.com) - \*\*LinkedIn\*\*: [linkedin.com/in/asmit-kumar-jena-1b778831b](https://www.linkedin.com/in/asmit-kumar-jena-1b778831b) - \*\*GitHub\*\*: [github.com/Muffin-18](https://github.com/Muffin-18)
+# Hi there, I'm Asmit Kumar Jena 👋
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmit-kumar-jena-1b778831b)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muffin-18)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashmitjena@gmail.com)
+
+---
+
+## 🚀 About Me
+
+I am a **Computer Science & Engineering undergraduate** specializing in **Artificial Intelligence & Machine Learning** at **Kalinga Institute of Industrial Technology (KIIT)**, Bhubaneswar (Graduating 2028). 
+
+My technical focus lies in building practical **Computer Vision** systems, **Deep Learning** models, and **Agentic AI** solutions that solve real-world problems.
+
+- 🎓 **Education**: B.Tech in CSE (AIML Specialization) @ KIIT (2024 – 2028)
+- 🤖 **Leadership**: Point of Contact (POC) & ML Team Member @ **KIIT Robotics Society**
+- 🎙️ **Community Work**: Organized and conducted **"The Imitation Game"**, a hands-on workshop on Agentic AI principles
+- 🛠️ **Current Focus**: Real-time Computer Vision pipelines, LLM-powered adaptive software, and Neural Network optimization
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### AI, Machine Learning & Computer Vision
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Tools & Deployment
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## ⚡ Featured Projects
+
+### 🧠 [FaceCode — Adaptive AI Coding Tutor](https://github.com/Muffin-18/Face-Code)
+> *Python, Streamlit, OpenCV, Groq LLM API, Emotion Analytics*
+- Built an intelligent coding tutor that evaluates student code and adapts problem difficulty in real time.
+- Integrated **OpenCV** to track emotional indicators and typing pace during coding sessions.
+- Connected the **Groq LLM API** to deliver automated error explanations, context-aware hints, and personalized problem recommendations.
+
+### 🍕 [Kalomee — Food Recognition & Nutrition Analyzer](https://github.com/Muffin-18/Kalomee)
+> *Python, TensorFlow, Keras, ResNet50, Streamlit, Pandas*
+- Engineered an automated food image classification system using a custom-trained **ResNet50 CNN** model.
+- Mapped classification outputs to a **Pandas** nutrition database to output caloric and macronutrient breakdowns per 100g.
+- Built an interactive **Streamlit** UI for quick image uploads and instant visualization of nutrition metrics.
+
+### 🐾 [PashuCare AI (AniCare) — Livestock Health Monitor](https://github.com/Muffin-18/AniCare)
+> *Python, Streamlit, OpenCV, Pillow, NumPy*
+- Developed a computer vision dashboard that tracks livestock species and keeps automated herd counts.
+- Implemented an algorithmic health assessment module classifying animals as **Healthy** or **At Risk**.
+- Designed real-time warning indicators on a **Streamlit** interface to alert farm administrators and veterinarians.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muffin-18&show_icons=true&theme=radial&count_private=true" alt="Asmit's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muffin-18&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+## 📫 Let's Connect!
+
+- **Email**: [ashmitjena@gmail.com](mailto:ashmitjena@gmail.com)
+- **LinkedIn**: [linkedin.com/in/asmit-kumar-jena-1b778831b](https://www.linkedin.com/in/asmit-kumar-jena-1b778831b)
+- **GitHub**: [github.com/Muffin-18](https://github.com/Muffin-18)
